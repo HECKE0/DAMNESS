@@ -507,7 +507,7 @@ local msg = Instance.new("Hint")
 msg.Parent = Workspace
 
 while true do
-msg.Text = "This Game Get Fucked By H3ck3_03!!!"
+msg.Text = "This Game Get Fucked By DAMNESS!!!"
 wait(1.5)
 msg.Text = "Get HACKED BY DAMNESS!!!!"
 wait(1.5)
